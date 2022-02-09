@@ -1,10 +1,8 @@
-[< к содержанию](./readme.md)
-
 # Инструкция по работе с GIT
 
 LICENSE: [MIT](./license.md)
 
-![git logo](./assets/Git-logo%20(1).svg)
+![git-logo](./assets1/Git-logo.svg)
 
 ---
 
