@@ -1,4 +1,4 @@
-[< к содержанию](./status.md)
+[<< к содержанию](./status.md)
 
 ## git status 
 
