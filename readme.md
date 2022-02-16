@@ -13,6 +13,8 @@ LICENSE: [MIT](./license.md)
 4. [git commit](./commit.md)
 5. [git push](./push.md)
 6. [git clean](./clean.md)
+7. [git clone](./clone.md)
+8. [git fetch](./fetch.md)
 
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, [license: CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
